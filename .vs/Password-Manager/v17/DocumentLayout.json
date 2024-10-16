@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\taden\\source\\repos\\TadenDev\\Password-Manager\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\taden\\source\\repos\\passwordmanager\\passwordmanager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\taden\\source\\repos\\passwordmanager\\headerfile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "passwordmanager.cpp",
+              "DocumentMoniker": "C:\\Users\\taden\\source\\repos\\passwordmanager\\passwordmanager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\passwordmanager\\passwordmanager.cpp",
+              "ToolTip": "C:\\Users\\taden\\source\\repos\\passwordmanager\\passwordmanager.cpp",
+              "RelativeToolTip": "..\\..\\passwordmanager\\passwordmanager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T03:52:28.684Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "headerfile.h",
+              "DocumentMoniker": "C:\\Users\\taden\\source\\repos\\passwordmanager\\headerfile.h",
+              "RelativeDocumentMoniker": "..\\..\\passwordmanager\\headerfile.h",
+              "ToolTip": "C:\\Users\\taden\\source\\repos\\passwordmanager\\headerfile.h",
+              "RelativeToolTip": "..\\..\\passwordmanager\\headerfile.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-16T03:52:31.885Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
